@@ -1,0 +1,17 @@
+.all{
+    background-color: antiquewhite;
+}
+.content{
+    background-color: bisque;
+    border-radius: 5px;
+    height: 50%;
+    width: 50%;
+}
+button{
+    background-color: white;
+
+}
+button:hover{
+    color: white;
+    background-color: black;
+}
